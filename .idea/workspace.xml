@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b9b450e-5b7c-4ad4-a347-76ecb8d9dcb3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Base.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Task1.class" afterPath="$PROJECT_DIR$/target/test-classes/Task1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Task2.class" afterPath="$PROJECT_DIR$/target/test-classes/Task2.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Lesson2HW.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Task1.java" afterPath="$PROJECT_DIR$/src/test/java/Task1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/Task2.java" afterPath="$PROJECT_DIR$/src/test/java/Task2.java" />
     </list>
     <ignored path="Lesson2HW.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -532,6 +527,14 @@
       <option name="presentableId" value="Default" />
       <updated>1541166576603</updated>
     </task>
+    <task id="LOCAL-00001" summary="refactored tests + gitignore">
+      <created>1542724508148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542724508148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -585,7 +588,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="refactored tests + gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored tests + gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
